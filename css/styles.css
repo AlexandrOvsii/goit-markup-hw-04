@@ -557,3 +557,10 @@ btn:focus {
   background: #f4f4fd;
   padding: 12px 24px;
 }
+
+
+.portfolio-img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
